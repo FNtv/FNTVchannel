@@ -26,6 +26,8 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Elshinta.png?raw=true",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL", O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Magna%20Channel.png?raw=true",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal", DAAI TV
@@ -111,13 +113,16 @@ http://rr.dens.tv/h/h18/01.m3u8
 http://rr.dens.tv/h/h90/S4/mnf.m3u8
 #EXTINF:-1 group-title="TV LOKAL", Sinema Indonesia
 http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
+#EXTINF:-1 group-title="TV LOKAL", BIOSKOP INDONESIA Backup
+https://Lnk.ec/bioskopIndo?shareext.ts
+#EXTINF:-1 group-title="TV LOKAL", FLIK Backup
+https://Lnk.ec/FLIK?shareext.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ZeeBioskop.png?raw=true",ZEE Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20TVN.png?raw=true",TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20K+.png?raw=true",K+
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20One.png?raw=true",ONE
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20AXN.png?raw=true",AXN
