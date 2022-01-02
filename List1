@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/favicon.png?raw=true",FNtv-Channel
-https://youtu.be/koI7m3oAw2I
+https://github.com/FNtv/Channel/blob/main/File/JNJChannel.mp4?raw=true
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20NET%20TV.png?raw=true",NET.
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
