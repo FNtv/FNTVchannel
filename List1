@@ -87,7 +87,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 group-title="SPORTS",Galatasaray TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",RedBullTv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png",IMPACT Wrestling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports
@@ -111,11 +111,11 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=celestialmovie&gum
 http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MYCinema.png?raw=true",MyCinema
 http://rr.dens.tv/h/h90/S4/mnf.m3u8
-#EXTINF:-1 group-title="TV LOKAL", Sinema Indonesia
+#EXTINF:-1 group-title="Movies", Sinema Indonesia
 http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
-#EXTINF:-1 group-title="TV LOKAL", BIOSKOP INDONESIA Backup
+#EXTINF:-1 group-title="Movies", BIOSKOP INDONESIA
 https://Lnk.ec/bioskopIndo?shareext.ts
-#EXTINF:-1 group-title="TV LOKAL", FLIK Backup
+#EXTINF:-1 group-title="Movies", FLIK
 https://Lnk.ec/FLIK?shareext.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ZeeBioskop.png?raw=true",ZEE Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
@@ -137,10 +137,9 @@ http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20THERILL.png?raw=true",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="TV ENTERTAIN", GALAXY
+#EXTINF:-1 group-title="Movies", GALAXY
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
-#EXTINF:-1 group-title="TV ENTERTAIN", GALAXY PREMIUM
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Japan (Indonesian Subs)
 http://210.210.155.35/dr9445/h/h02/01.m3u8
