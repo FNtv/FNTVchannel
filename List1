@@ -19,7 +19,7 @@ https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000
 #EXTINF:-1 group-title="Lokal" "tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Indosiar.png?raw=true",Indosiar
 http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
-https://link.zozotv.xyz:443/707070/707070/48
+https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
@@ -33,7 +33,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal", DAAI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png",JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/logo_TIC.png?raw=true",Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net (720p) [Not 24/7]
@@ -69,7 +69,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Eurosport-Logo-500x313.jpg",EUROSPORT 2 FR
 http://168.119.69.149:86/Eurosport_2_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/bYVfNrTF/download-2021-09-13-T075239-257.png",Egg Network
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Eurosport-Logo-500x313.jpg",EUROSPORT 1 FR
 http://217.23.4.81:86/Eurosport_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Free Sports TV
@@ -87,7 +87,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 group-title="SPORTS",Galatasaray TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",RedBullTv
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
+https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png",IMPACT Wrestling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports
