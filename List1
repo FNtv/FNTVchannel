@@ -20,7 +20,7 @@ https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000
 http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20GTV.png?raw=true",GTV
 https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
-#EXTINF:-1 group-title="LOKALl" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20ANTV.png?raw=true",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
@@ -31,7 +31,6 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Magna%20Channel.png?raw=true",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL", DAAI TV
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 http://210.210.155.35:80/session/94ebaf3c-6e05-11ec-9f16-b82a72d63267/qwr9ew/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png",JTV
 https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
@@ -40,18 +39,51 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net (720p) [Not 24/7]
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Berita%20Satu.png?raw=true",BeritaSatu
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Berita%20Satu.png?raw=true",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20CNN%20Indonesia.png?raw=true",CNN Indonesia
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20CNN%20Indonesia.png?raw=true",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News"  tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/logo%20CNBC%20Indonesia.png?raw=true",CNBC Indonesia
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/logo%20CNBC%20Indonesia.png?raw=true",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnirKe1g_4pl01j4ehYZiqa7vpv2ISq8iD_07QG3mUwquEecd6",Metro TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnirKe1g_4pl01j4ehYZiqa7vpv2ISq8iD_07QG3mUwquEecd6",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/100px-TVRILogo2006.svg.png",TVRI
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/100px-TVRILogo2006.svg.png",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Reformed%2021.png?raw=true",Reformed 21
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Reformed%2021.png?raw=true",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44KLbhqk/DW.png" group-title="NEWS", DW 
+http://210.210.155.35/session/7f2da0d2-b048-11ea-8803-b72ca503ea48/qwr9ew/s/s26/02.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/NMPFMtnD/arise.png",Arise News
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/eroz_brebes.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="NEWS", SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/VvgYVw6x/Bloomberg.png",Bloomberg 
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/wjxqJC7Z/cgtnnews.png", CGTN 
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/T3GYt8FT/FRANCE-24.png", France 24
+http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/y6MNS3Tg/ABC.png", ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/tJVLjT18/euronews.png", Euro News 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png" group-title="NEWS", Arirang 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15Wj4qVX/CNBC.png" group-title="NEWS", CNBC Asia 
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNN3fPG/TRT.png" group-title="NEWS", TRT World 
+http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF54CRDV/CNA.png" group-title="NEWS", Channel News Asia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/dQk11jGc/cbsn.png",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/7oj0h2ezjt801cm/aljazeera.png?dl=1", Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/ar27sqossac2wto/Jakarta_globe_news_channel_id.png?dl=1", Jakarta globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b356000.m3u8
+#EXTINF:-1 tvg-id="NHK WORLD JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="NEWS" ,NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS",Champion1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
