@@ -13,6 +13,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20SCTV.png?raw=true",SCTV
 http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20RCTI.png?raw=true",RCTI
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/skrz1j8exe/rcti2_192p/chunks.m3u8?nimblesessionid=352266149&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIyIDEyOjE5OjM2IFBNJmhhc2hfdmFsdWU9bEJhcTVGWkdDVk9EREp5SmZJdVEyUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIwNzE3MzR8MTgwLjI0NS4yNTMuMTg=
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20MNCTV.png?raw=true",MNCTV
 https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
