@@ -6,7 +6,7 @@ https://github.com/FNtv/Channel/blob/main/File/JNJChannel.mp4?raw=true
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/NETfntv.png?raw=true",NET.
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png",RTV
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RTVfntv.png?raw=true",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=3394
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TRANS7fntv.png?raw=true",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -26,11 +26,11 @@ http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/
 https://inews-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/ANTVfntv.png?raw=true",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",tvOne
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TVONEfntv.png?raw=true",tvOne
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Elshinta.png?raw=true",Elshinta TV
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/ELSHINTAfntv.png?raw=true",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="LOKAL", O channel
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/OCHANNELfntv.png?raw=true", O channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Magna%20Channel.png?raw=true",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
