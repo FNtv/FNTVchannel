@@ -330,3 +330,6 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MUSIC",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
+
+#EXTINF:-1,group-title="VOD"   tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/favicon.png?raw=true",FAST&FORIOUS 9
+https://storage.googleapis.com/d39124c2d30697f265.appspot.com/62197b6961623df04e181c81a7c160bc_1639456178.mp4?sumber=awal_storage
