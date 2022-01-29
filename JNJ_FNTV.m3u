@@ -16,9 +16,11 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RCTIfntv.png?raw=true",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+http://chostv.mobie.in/files/iptv/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/MNCTVfntv.png?raw=true",MNCTV
-https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
+http://chostv.mobie.in/files/iptv/mnctv.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1 group-title="LOKAL" "tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/INDOSIARfntv.png?raw=true",Indosiar
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/session/a9786c22-6afb-11ec-9e37-b82a72d63267/qwr9ew/s/s04/01.m3u8
@@ -46,7 +48,8 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/iNewsfntv.png?raw=true",iNews
-https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
+http://chostv.mobie.in/files/iptv/inews.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Berita%20Satu.png?raw=true",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20CNN%20Indonesia.png?raw=true",CNN Indonesia
