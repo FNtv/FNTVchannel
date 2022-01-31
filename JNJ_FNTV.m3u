@@ -16,8 +16,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RCTIfntv.png?raw=true",RCTI
-http://chostv.mobie.in/files/iptv/rcti.m3u8
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/MNCTVfntv.png?raw=true",MNCTV
 http://chostv.mobie.in/files/iptv/mnctv.m3u8
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
