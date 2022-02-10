@@ -44,8 +44,7 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/iNewsfntv.png?raw=true",iNews
-http://chostv.mobie.in/files/iptv/inews.m3u8
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20Berita%20Satu.png?raw=true",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/Logo%20CNN%20Indonesia.png?raw=true",CNN Indonesia
