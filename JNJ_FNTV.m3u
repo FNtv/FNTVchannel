@@ -15,10 +15,9 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/SCTVfntv.png?raw=true",SCTV
 http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RCTIfntv.png?raw=true",RCTI
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
+https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/MNCTVfntv.png?raw=true",MNCTV
-http://chostv.mobie.in/files/iptv/mnctv.m3u8
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 #EXTINF:-1 group-title="LOKAL" "tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/INDOSIARfntv.png?raw=true",Indosiar
 http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/GTVfntv.png?raw=true",GTV
