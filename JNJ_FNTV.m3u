@@ -35,7 +35,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/DAITVfntv.png?raw=true", DAAI TV
 http://210.210.155.35:80/session/94ebaf3c-6e05-11ec-9f16-b82a72d63267/qwr9ew/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/JTVfntv.png?raw=true",JTV
-https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 logo="https://mncvision.id/userfiles/image/channel/channel_95.png",ID OKTV
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3drQ-AANSJB3IHy_J2fxjM/m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TICfntv.png?raw=true",Indonesia Channel
